@@ -2,7 +2,7 @@ from manim import *
 
 class Derivatives(Scene):
     def construct(self):
-        # --- 1. AXES AND GRAPH ---
+        # --- 1. AXES AND GRAPH --- hi
         axes = Axes(
             x_range=[-3, 3, 1],
             y_range=[-10, 10, 5],
