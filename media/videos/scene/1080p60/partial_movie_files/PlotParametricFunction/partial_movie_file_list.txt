@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/3544663784_359695016_223132457.mp4'
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/260329756_1691733553_4067896256.mp4'
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/260329756_1284970972_2163172376.mp4'
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/260329756_4182805882_2163172376.mp4'
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/260329756_3950951827_2163172376.mp4'
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PlotParametricFunction/260329756_1754310298_4161431859.mp4'

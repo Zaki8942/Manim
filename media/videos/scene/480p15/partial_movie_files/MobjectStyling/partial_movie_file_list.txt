@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/MobjectStyling/1185818338_1734327179_2078812896.mp4'
