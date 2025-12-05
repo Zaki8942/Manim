@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/DerivativesFix/3544663784_683020888_223132457.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/DerivativesFix/260329756_2526496431_4153784954.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/DerivativesFix/260329756_1248149625_1204122032.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/DerivativesFix/260329756_3626795792_3866359441.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/DerivativesFix/260329756_2334392282_452640313.mp4'

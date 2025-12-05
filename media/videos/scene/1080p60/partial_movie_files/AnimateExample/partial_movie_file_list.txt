@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/AnimateExample/2621265332_1479334221_1848080565.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/AnimateExample/4272032393_515551470_1848080565.mp4'

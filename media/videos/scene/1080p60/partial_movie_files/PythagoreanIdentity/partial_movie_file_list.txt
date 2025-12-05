@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PythagoreanIdentity/3544663784_925036921_1447212287.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PythagoreanIdentity/260329756_3392574935_3992205158.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PythagoreanIdentity/260329756_3474937146_2860744017.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/1080p60/partial_movie_files/PythagoreanIdentity/260329756_1754310298_2919288324.mp4'
