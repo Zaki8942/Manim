@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/1185818338_513577100_223132457.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/624642324_698627309_557880437.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/624642324_4149041838_557880437.mp4'
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/624642324_1112840482_557880437.mp4'

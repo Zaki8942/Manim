@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zakib/PycharmProjects/Animating/media/videos/scene/480p15/partial_movie_files/TransformCycle/1185818338_1839128356_3158118553.mp4'
